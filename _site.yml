@@ -2,8 +2,8 @@ name: "Eeecology"
 navbar:
   title: "HOME"
   left:
-    - text: "First Observations"
-      href: first_observations.html
+    - text: "Selected publications"
+      href: publications.html
     - text: "Basic Workflow"
       href: basic_workflow.html
     - text: "Getting Sophisticated"
