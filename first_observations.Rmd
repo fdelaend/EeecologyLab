@@ -1,5 +1,5 @@
 ---
-title: "First observations"
+title: "Recent publications"
 ---
 
 With this tutorial, we have a working example website that we will explore together. We'll learn a few rules and look for patterns to get an understanding of what things do. And you can continue to use this website as a reference after the tutorial, along with [**RStudio's instructions for R Markdown websites**](http://rmarkdown.rstudio.com/rmarkdown_websites.html).      
