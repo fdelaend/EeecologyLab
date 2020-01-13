@@ -8,7 +8,26 @@ output:
 
 ----
 
-This is a test. 
+[This website is currently being build. Any feedback is welcome!]
+
+#Mission
+Welcome to the website of my group at the University of Namur (Belgium). Our main objective is to contribute to a better understanding of how environmental changes affect the composition and structure of communities, and ecosystem functions. Our lab combines mathematical modelling, theory, and experiments. 
+\\
+#Research topics
+
+* Stability:
+    + Ever since Robert May's work in the 1970s, we know that community characteristics such as connectance, the number of species, and average interaction strength influence how communities respond to small changes around  equilibrium. However, communities typically face large perturbations while not being at equilibrium. In addition, the same environmental changes that perturb species densities (a lot or a little) may at the same time alter average interaction strengths and thereby the capacity of the community to recover once the perturbation has died out. We need to understand how these various factors change our fundamental understanding of what explains stability.
+
+* Multiple stressors: 
+    + Ecosystems are increasingly challenged by multiple drivers of environmental change. Understanding and predicting their combined effects is a pressing scientific and societal need. Substantial effort has been put in unravelling these combined effects at lower levels of biological organisation, e.g. individuals and populations. Yet, it is currently less well understood how these effects scale up to affect the diversity and composition of biological communities and important ecosystem functions they contribute to such as resource use and biomass production. Today, a dominant approach is to test for statistical interactions among environmental change drivers: if the combined effect is weaker/stronger than a predefined expectation (e.g. that effects of the single drivers simply add up), the drivers are classified as interacting antagonistically/synergistically. We propose to complement this approach by the development of mechanistic models and novel experiments. 
+
+* Intraspecific variability: 
+
+* Spatial dynamics
+
+* Biodiversity and ecosystem functions
+
+* Coexistence
 
 
 ----
